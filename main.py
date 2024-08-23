@@ -1,6 +1,6 @@
-## Code by A.S Chirag
-a = int(input("Enter a Number: "))
-b = int(input("Enter a Number: "))
-sum = a + b
-print(f"Sum of {a} and {b} is: {sum}s")
+## Code by cashyr
+p = int(input("Enter a Number: "))
+q = int(input("Enter a Number: "))
+sum = p + q
+print(f"Sum of {p} and {q} is: {sum}s")
 print("Changing the code")
